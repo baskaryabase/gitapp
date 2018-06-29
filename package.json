@@ -1,0 +1,27 @@
+{
+  "name": "gitapp",
+  "version": "1.0.0",
+  "description": "Gogs [![Build Status](https://travis-ci.org/gogs/gogs.svg?branch=master)](https://travis-ci.org/gogs/gogs) [![Build status](https://ci.appveyor.com/api/projects/status/b9uu5ejl933e2wlt/branch/master?svg=true)](https://ci.appveyor.com/project/Unknwon/gogs/branch/master) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/gogs/localized.svg)](https://crowdin.com/project/gogs) [![Discord](https://img.shields.io/discord/382595433060499458.svg)](https://discord.gg/9aqdHU7) =====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baskaryabase/gitapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baskaryabase/gitapp/issues"
+  },
+  "homepage": "https://github.com/baskaryabase/gitapp#readme",
+  "engines": {
+    "node": "^9.11.1"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.16.3",
+    "http-proxy": "^1.17.0"
+  }
+}
