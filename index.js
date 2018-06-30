@@ -1,16 +1,11 @@
-const app = require("express")()
+const express = require("express")
+const app = express()
 const exec = require("child_process").exec
 const httpProxy = require("http-proxy")
 
-exec("./gogs web",function(err,out){
-  if(err)console.log(err)
+exec('./gogs web')
 
-  console.log(out) 
-})
-
-
-const apiProxy = 
-httpProxy.createProxyServer({
+const apiProxy = httpProxy.createProxyServer({
   target: "http://localhost:3000"
 });
 

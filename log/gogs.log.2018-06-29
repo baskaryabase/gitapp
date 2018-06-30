@@ -1,0 +1,63 @@
+2018/06/29 22:34:31 [TRACE] Log Mode: File (Trace)
+2018/06/29 22:34:31 [ INFO] Gogs 0.11.53.0603
+2018/06/29 22:34:31 [ INFO] Cache Service Enabled
+2018/06/29 22:34:31 [ INFO] Session Service Enabled
+2018/06/29 22:34:32 [ INFO] Git Version: 2.7.4
+2018/06/29 22:34:32 [ INFO] SQLite3 Supported
+2018/06/29 22:34:32 [ INFO] Run Mode: Production
+2018/06/29 22:34:32 [ INFO] First-time run install finished!
+2018/06/29 22:34:32 [TRACE] Doing: CheckRepoStats
+2018/06/29 22:34:32 [TRACE] Session ID: 585b7f22d3b7cddc
+2018/06/29 22:34:32 [TRACE] CSRF Token: QFBXGBflKQLVY7odbbb9Xx1sfnU6MTUzMDI5MTg3MjY3MDIzNTM3NA==
+2018/06/29 22:34:32 [TRACE] Template: user/auth/login
+2018/06/29 23:28:55 [TRACE] Log Mode: File (Trace)
+2018/06/29 23:28:55 [ INFO] Gogs 0.11.53.0603
+2018/06/29 23:28:55 [ INFO] Cache Service Enabled
+2018/06/29 23:28:55 [ INFO] Session Service Enabled
+2018/06/29 23:28:55 [ INFO] Git Version: 2.7.4
+2018/06/29 23:28:55 [ INFO] SQLite3 Supported
+2018/06/29 23:28:55 [ INFO] Run Mode: Production
+2018/06/29 23:28:55 [ INFO] First-time run install finished!
+2018/06/29 23:28:55 [TRACE] Doing: CheckRepoStats
+2018/06/29 23:28:55 [TRACE] Session ID: f3d343caf8d1b826
+2018/06/29 23:28:55 [TRACE] CSRF Token: lcuxKtXfplspX5lM3JuFv6JezF06MTUzMDI5NTEzNTc5NDMxMTMzMg==
+2018/06/29 23:28:55 [TRACE] Template: user/auth/login
+2018/06/29 23:29:18 [TRACE] Log Mode: File (Trace)
+2018/06/29 23:29:18 [ INFO] Gogs 0.11.53.0603
+2018/06/29 23:29:18 [ INFO] Cache Service Enabled
+2018/06/29 23:29:18 [ INFO] Session Service Enabled
+2018/06/29 23:29:18 [ INFO] Git Version: 2.7.4
+2018/06/29 23:29:18 [ INFO] SQLite3 Supported
+2018/06/29 23:29:18 [ INFO] Run Mode: Production
+2018/06/29 23:29:18 [TRACE] Doing: CheckRepoStats
+2018/06/29 23:29:18 [ INFO] Listen: http://0.0.0.0:3000
+2018/06/29 23:29:22 [TRACE] Session ID: 8d663a64061aae56
+2018/06/29 23:29:22 [TRACE] CSRF Token: ditgetag9fySSkNrWxjAnP_0PW46MTUzMDI5NTE2MjkzODE0MDc3MQ==
+2018/06/29 23:29:22 [TRACE] Template: user/auth/login
+2018/06/29 23:34:42 [TRACE] Log Mode: File (Trace)
+2018/06/29 23:34:42 [ INFO] Gogs 0.11.53.0603
+2018/06/29 23:34:42 [ INFO] Cache Service Enabled
+2018/06/29 23:34:42 [ INFO] Session Service Enabled
+2018/06/29 23:34:42 [ INFO] Git Version: 2.7.4
+2018/06/29 23:34:42 [ INFO] SQLite3 Supported
+2018/06/29 23:34:42 [ INFO] Run Mode: Production
+2018/06/29 23:34:42 [TRACE] Doing: CheckRepoStats
+2018/06/29 23:34:42 [ INFO] Listen: http://0.0.0.0:3000
+2018/06/29 23:34:46 [TRACE] Session ID: 8d663a64061aae56
+2018/06/29 23:34:46 [TRACE] CSRF Token: ditgetag9fySSkNrWxjAnP_0PW46MTUzMDI5NTE2MjkzODE0MDc3MQ==
+2018/06/29 23:34:46 [TRACE] Template: user/auth/login
+2018/06/29 23:34:48 [TRACE] Session ID: 8d663a64061aae56
+2018/06/29 23:34:48 [TRACE] CSRF Token: ditgetag9fySSkNrWxjAnP_0PW46MTUzMDI5NTE2MjkzODE0MDc3MQ==
+2018/06/29 23:34:48 [TRACE] Template: user/auth/login
+2018/06/29 23:34:49 [TRACE] Session ID: 8d663a64061aae56
+2018/06/29 23:34:49 [TRACE] CSRF Token: ditgetag9fySSkNrWxjAnP_0PW46MTUzMDI5NTE2MjkzODE0MDc3MQ==
+2018/06/29 23:34:49 [TRACE] Template: user/auth/login
+2018/06/29 23:34:50 [TRACE] Session ID: 8d663a64061aae56
+2018/06/29 23:34:50 [TRACE] CSRF Token: ditgetag9fySSkNrWxjAnP_0PW46MTUzMDI5NTE2MjkzODE0MDc3MQ==
+2018/06/29 23:34:50 [TRACE] Template: user/auth/login
+2018/06/29 23:34:51 [TRACE] Session ID: 8d663a64061aae56
+2018/06/29 23:34:51 [TRACE] CSRF Token: ditgetag9fySSkNrWxjAnP_0PW46MTUzMDI5NTE2MjkzODE0MDc3MQ==
+2018/06/29 23:34:51 [TRACE] Template: user/auth/login
+2018/06/29 23:34:52 [TRACE] Session ID: 8d663a64061aae56
+2018/06/29 23:34:52 [TRACE] CSRF Token: ditgetag9fySSkNrWxjAnP_0PW46MTUzMDI5NTE2MjkzODE0MDc3MQ==
+2018/06/29 23:34:52 [TRACE] Template: user/auth/login
